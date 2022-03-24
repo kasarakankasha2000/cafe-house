@@ -1,0 +1,32 @@
+ 
+    body{
+        margin:5% !important;
+        background-color: #ccffff !important;
+          } 
+    .carousel-inner > .item > img,  
+    .carousel-inner > .item > a > img {  
+        width: 80%;  
+        height: 500px;
+        margin: auto;  
+    }  
+  
+  h1{
+  text-align:center;
+  font-size:80px;
+  }
+  
+  #d2{
+  font-size:80px;
+  margin: left 5%;
+  }
+  h1{
+    text-align: center;
+  }
+  
+  #d1{
+    width:65%;
+    height:25%;
+  }
+  # item action item{
+      image :center;
+  }

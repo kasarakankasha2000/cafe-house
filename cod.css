@@ -1,0 +1,81 @@
+*{
+    margin : 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* body{
+    background : liner-gradient(#021b79, trasparnet), url();
+    background-size: cover;
+    background-position : center;
+    background-repeat: no repeat;
+    height: auto;
+    font-family:'oswald';
+}
+.constainer{
+    max-width:800px;
+    height:auto;
+    background: #fff;
+    margin:50px auto;
+    box-sizing: border-box;
+    padding: 40px;
+}
+p{
+    text-align: center;
+    letter-spacing: 1px;
+    font-size: 45px;
+    margin-bottom:20px;
+    background:linear-gardient(to right, #0575e6, #021b79);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.input,
+.msg .area{
+    width:100%;
+    padding: 20px;
+    box-sizing: boeder-box;
+    margin-bottom: 25px;
+    
+} */
+
+.form-container{
+    text-align: center;
+    width: 80%;
+    margin:0 auto;
+}
+.form-container{
+ margin-top: 5%;
+}
+
+.address{
+    margin-top: 12%;
+    margin-left: 2%;
+    background-color: white;
+    border-radius: 0.5rem;
+    text-align: center;
+}
+body {
+    background-image: url("b5.jpg");
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-attachment:fixed;
+    background-position:center;
+    
+}
+input, textarea{
+    width: 100%;
+ 
+    
+}
+.submit-button{
+    width: 30%;
+}
+.main-heading{
+    font-size:4rem ;
+    color: #fff;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.container-fluid{
+    text-align: center;
+   
+}
